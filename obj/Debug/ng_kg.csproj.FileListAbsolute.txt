@@ -1,0 +1,16 @@
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\nunit.engine.dll
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\nunit.engine.api.dll
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\nunit.dll
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\nunit.pdb
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\nunit.framework.dll
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\WebDriver.dll
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\WebDriver.Support.dll
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\nunit.framework.pdb
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\nunit.framework.xml
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\WebDriver.xml
+C:\Users\Kamil\Desktop\ng_kg\bin\Debug\WebDriver.Support.xml
+C:\Users\Kamil\Desktop\ng_kg\obj\Debug\ng_kg.csproj.CopyComplete
+C:\Users\Kamil\Desktop\ng_kg\obj\Debug\nunit.dll
+C:\Users\Kamil\Desktop\ng_kg\obj\Debug\nunit.pdb
